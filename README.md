@@ -1,7 +1,10 @@
-<h1 align="center">Hi there👋,this is Saquib Jikare</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h1 align="center">Hi👋,I am Saquib Jikare</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saquibjk&label=Profile%20views&color=0e75b6&style=flat" alt="saquibjk" /> </p>
+
+- 🌱 I’m currently learning **Node.js Express React**
+
+- 📫 How to reach me **saquibjikare@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
