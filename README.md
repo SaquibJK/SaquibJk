@@ -39,11 +39,10 @@ I'm pursuing my 2nd year with experience working with JavaScript, Node.js, and G
   </p>
 
 ### :mailbox: Connect w/ Me:  
-[![Gmail Badge](https://img.shields.io/badge/-saquibjikare@gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:saquibjikare@gmail.com)](mailto:saquibjikare@gmail.com) [![GitHub](https://img.shields.io/badge/-saquibjk-132c33?style=flat-square&logo=github&logoColor=white&link=https://github.com/saquibjk)](https://github.com/saquibjk) [![LinkedIn](https://img.shields.io/badge/-Saquib Jikare-0061a8?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/saquib-jikare-64a042225/)](https://linkedin.com/in/saquib-jikare-64a042225/)
-
+[![Gmail Badge](https://img.shields.io/badge/-saquibjikare@gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:saquibjikare@gmail.com)](mailto:saquibjikare@gmail.com) [![GitHub](https://img.shields.io/badge/-saquibjk-132c33?style=flat-square&logo=github&logoColor=white&link=https://github.com/saquibjk)](https://github.com/saquibjk) [![LinkedIn](https://img.shields.io/badge/-SaquibJikare-0061a8?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/saquib-jikare-64a042225/)](https://linkedin.com/in/saquib-jikare-64a042225/)
 [![Twitter Badge](https://img.shields.io/badge/-Saquib-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/saq)](https://twitter.com/saq__j)
 
-![Suman's GitHub stats](https://github-readme-stats-g6gt.vercel.app/api?username=saquibjk&count_private=true&show_icons=true&theme=tokyonight)
+![Saquib's GitHub stats](https://github-readme-stats-g6gt.vercel.app/api?username=saquibjk&count_private=true&show_icons=true&theme=tokyonight)
  
  _GitHub Readme Stats Provided by: [anuraghazra](https://github.com/anuraghazra/github-readme-stats)_
 
